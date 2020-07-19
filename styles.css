@@ -1,0 +1,174 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 6.625rem;
+  color: #66BFBF;
+  font-weight: bold;
+}
+
+h2  {
+
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color: #66BFBF;
+font-weight: bold;
+padding-bottom: 10px;
+
+
+}
+
+h3 {
+
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: bold;
+}
+
+.top_conteiner {
+  background-color: #e4f9f5;
+  position: relative;
+  padding: 100px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.middle-container {
+
+
+}
+ .profile {
+margin: 20px auto;
+padding-top: 20px;
+
+ }
+
+ .profile_pic {
+   width: 20%;
+ }
+.profile-row {
+  color: #40514E;
+  width: 30%;
+  margin: auto;
+  padding: 30px;
+}
+hr {
+
+  border-style: none;
+  border-color: #EAF6F6;
+  border-width: 5px;
+border-top-style: dotted;
+width: 1%;
+padding: 30px;
+
+
+
+}
+
+.skill-row {
+margin: 100px auto;
+width: 50%;
+text-align: left;
+line-height: 2;
+padding: 5px;
+color: #40514E;
+
+
+}
+.skill_photo {
+  width: 20%;
+  float: left;
+margin-right: 30px;
+}
+
+.skill-row2 {
+
+  margin: 100px auto;
+  width: 50%;
+  text-align: right;
+  line-height: 2;
+
+
+
+}
+
+.skill_photo2 {
+  width: 20%;
+  float: right;
+margin-left: 30px;
+}
+.bottom-container {
+  text-align: center;
+  padding: 50px;
+  background-color: #66BFBF;
+  color: #11999E;
+
+}
+
+.contact-me {
+width: 30%;
+margin: 100px auto;
+
+
+}
+.myButton {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%,  #11999E 100%);
+	background-color: #11999E;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.footer-link {
+  color: #11999E;
+margin-left: 30px;
+font-family: 'Merriweather', serif;
+
+}
+
+.footer-link:hover {
+
+  color: white;
+}
+
+.copy {
+  color: white;
+  font-size: 0.6px;
+}
